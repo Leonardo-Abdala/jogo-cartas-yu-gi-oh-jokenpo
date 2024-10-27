@@ -1,10 +1,10 @@
-# Jogo de Cartas Yu-Gi-Oh! estilo Jokenpo
+# Jogo de Cartas Yu-Gi-Oh! estilo Jokenpô
 
 ![Mostrando: Print da tela do jogo](./src/assets/images/print_game.png)
 
 ## :rocket: Descrição do projeto
 
-Jogo de cartas jokenpo baseado no Yu Gi Oh!. Este projeto faz parte do desafio de código da [DIO](https://dio.me).
+Jogo de cartas jokenpô baseado no Yu-Gi-Oh!. Este projeto faz parte do desafio de código da [DIO](https://dio.me).
 
 ## :speech_balloon: Conheça mais dos meus projetos
 
