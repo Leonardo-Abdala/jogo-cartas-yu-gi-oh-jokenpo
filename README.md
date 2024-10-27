@@ -1,4 +1,4 @@
-# Jogo de Cartas Yu Gi Oh! estilo Jokenpo
+# Jogo de Cartas Yu-Gi-Oh! estilo Jokenpo
 
 ![Mostrando: Print da tela do jogo](./src/assets/images/print_game.png)
 
